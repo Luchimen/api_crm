@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "CLIENTE EDITADO",
+      "empresa": "sssss",
+      "email": "mistersatan@gmail.com",
+      "telefono": "95249",
+      "notas": "asdadadad",
+      "id": 2
+    },
+    {
+      "nombre": "Peluza",
+      "empresa": "sssss",
+      "email": "zarecalflo@hotmail.com",
+      "telefono": "95249",
+      "notas": "asdadasd",
+      "id": 3
+    },
+    {
+      "nombre": "Sandra",
+      "empresa": "sssss",
+      "email": "zarecalflo@hotmail.com",
+      "telefono": "95249",
+      "notas": "asdasdasdasdas",
+      "id": 4
+    }
+  ]
+}
